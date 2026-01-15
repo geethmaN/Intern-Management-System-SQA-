@@ -1,6 +1,3 @@
-Nice choice 👍 A good **README.md** really upgrades your GitHub profile.
-Here’s a **complete, clean, and portfolio-ready README.md** for your **SQA Cypress project**.
-You can copy-paste this directly into `README.md`.
 
 ---
 
@@ -109,18 +106,9 @@ npx cypress run
 ## 🧪 Test Scenarios Covered
 
 * Login functionality testing
-* Form validation testing
-* UI element verification
-* Navigation testing
-* Positive and negative test cases
-
----
-
-## 📊 Test Reports & Results
-
-* Screenshots are automatically captured on test failure
-* Videos are recorded during test execution
-* Results help identify bugs and verify application stability
+* Add New CV Page testing
+* Register function/Page testing
+* Add new interview function  testing
 
 ---
 
